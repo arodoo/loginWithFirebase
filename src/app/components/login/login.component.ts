@@ -9,10 +9,10 @@ import { AuthGoogleService } from 'src/app/services/auth-google.service';
 export class LoginComponent {
 
       constructor(private authGoogleService: AuthGoogleService) { }
-/* 
+
       login() {
         this.authGoogleService.login();
       }
- */
+
 
 }
